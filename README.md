@@ -16,7 +16,7 @@ Open [Fireworks](https://thettun-web.github.io/fireworks/) in your browser to se
 
 1. Clone the repository:
 
-   git clone https://github.com/thettun-web/fireworks.git
+   git clone https://github.com/thetnaingtun-code/fireworks.git
 
 2. Open the `index.html` file in your browser, or serve the directory with a static server:
 
